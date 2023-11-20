@@ -37,9 +37,9 @@
     font-size: 24px;
   }
 
-  h1:hover {
+  /* h1:hover {
     cursor: pointer;
-  }
+  } */
 
   h1 span:last-child {
     color: #465B71;
