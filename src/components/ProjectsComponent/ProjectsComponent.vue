@@ -53,6 +53,13 @@
             frontUrl: 'https://dev-lucasoliveira.github.io/site-da-escola/#section1',
           },
           {
+            image: 'dailyVerse.png',
+            title: 'Daily Verse',
+            description: 'Daily Verse is a page where you can have access to a daily bible verse. The verse is generate by "NET Bible Web Service (API)".',
+            stack: 'Vue.js, Javascript, HTML, CSS, Axios, NET Bible Web Service (API), Git and Github.',
+            frontUrl: 'https://dailybibleverse.vercel.app/',
+          },
+          {
             image: 'myPortfolio.png',
             title: 'Lucas Oliveira | Portfolio',
             description: 'This Portfolio was created using Vue.js for study purposes. As you can see, I am very curious and love to explore new technologies, no matter what it is. By the way, I just loved to use Vue.js to create this!',
@@ -138,20 +145,19 @@
 
   a > img {
     border-radius: 5px;
-    box-shadow: 10px 10px 10px rgb(230, 230, 230, 0.2)
+    box-shadow: 0 0 10px rgb(230, 230, 230, 0.2)
   }
 
   a > img:hover {
-    /* scale: 1.1; */
     animation: scale-on-hover 1s linear forwards;
   }
 
   @keyframes scale-on-hover {
     from {
-    box-shadow: 10px 10px 10px rgb(230, 230, 230, 0.2)
+    box-shadow: 0 0 10px rgb(230, 230, 230, 0.2)
     }
     to {
-    box-shadow: 10px 10px 10px rgb(230, 230, 230, 0.5)
+    box-shadow: 0 0 15px rgb(230, 230, 230, 0.8)
     }
   }
 </style>
