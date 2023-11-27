@@ -74,12 +74,12 @@
     padding: 8vh 0;
     height: fit-content;
     /* font-size: 18px; */
-    color: #2e2e2e;
+    color: #e5e5e5;
   }
-  
+
   h1 {
     font-size: 40px;
-    color: #465B71;
+    color: #6680A3;
     align-self: center;
     margin-bottom: 2vh;
   }
@@ -98,9 +98,9 @@
     width: fit-content;
     margin-top: 40px;
   }
-  
+
   a > p {
-    background-color: #465B71;
+    background-color: #6680A3;
     width: max-content;
     font-size: 16px;
     padding: 7px 16px;
@@ -132,13 +132,13 @@
   hr {
     margin: 2vh 0;
     border: none;
-    border-bottom: solid 1px #2e2e2e20;
+    border-bottom: solid 1px rgb(230, 230, 230, 0.2);
     width: 100%;
   }
 
   a > img {
     border-radius: 5px;
-    box-shadow: 10px 10px 10px #2e2e2e90;
+    box-shadow: 10px 10px 10px rgb(230, 230, 230, 0.2)
   }
 
   a > img:hover {
@@ -148,10 +148,10 @@
 
   @keyframes scale-on-hover {
     from {
-      box-shadow: 10px 10px 10px #2e2e2e90;
+    box-shadow: 10px 10px 10px rgb(230, 230, 230, 0.2)
     }
     to {
-      box-shadow: 10px 10px 30px #2e2e2e90;
+    box-shadow: 10px 10px 10px rgb(230, 230, 230, 0.5)
     }
   }
 </style>

@@ -32,7 +32,7 @@
   hr {
     margin: auto;
     border: none;
-    border-bottom: solid 1px #2e2e2e40;
+    border-bottom: solid 1px rgb(230, 230, 230, 0.2);
     width: 80%;
   }
 </style>

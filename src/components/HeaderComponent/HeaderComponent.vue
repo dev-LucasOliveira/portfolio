@@ -29,7 +29,7 @@
     padding: 0 15vw 0 3vw;
     width: 100vw;
     color: #E5E5E5;
-    background-color: #2e2e2e;
+    /* background-color: #2e2e2e; */
     /* background-color: transparent; */
   }
 
@@ -42,7 +42,7 @@
   } */
 
   h1 span:last-child {
-    color: #465B71;
+    color: #6680A3;
   }
 
   nav {

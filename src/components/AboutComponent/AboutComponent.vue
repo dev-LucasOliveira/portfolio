@@ -22,14 +22,14 @@
     padding: 10vh 0;
     height: fit-content;
     /* font-size: 25px; */
-    color: #2e2e2e;
+    color: #e5e5e5;
   }
 
   h1 {
     font-size: 40px;
     align-self: center;
     margin-bottom: 5vh;
-    color: #465B71;
+    color: #6680A3;
   }
 
   p {

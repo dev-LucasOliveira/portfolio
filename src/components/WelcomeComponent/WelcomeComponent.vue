@@ -29,7 +29,7 @@
     justify-content: center;
     height: 100vh;
     font-size: 40px;
-    color: #2e2e2e;
+    color: #e5e5e5;
   }
 
   section:first-child > div {
@@ -58,7 +58,7 @@
 
   h1 {
     width: auto;
-    color: #465B71;
+    color: #6680A3;
   }
 
   h1:hover {
@@ -68,13 +68,13 @@
 
   @keyframes color {
     0% {
-      color: #465B71;
+      color: #6680A3;
     }
     50% {
       color: #FCA311;
     }
     100% {
-      color: #465B71;
+      color: #6680A3;
     }
   }
 
